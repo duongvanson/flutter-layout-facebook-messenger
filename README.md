@@ -3,7 +3,6 @@
 A new Flutter application.
 
 # Screenshots
-![](../screenshots/Screenshot_20200412-110237.jpg =300x)
-![alt text](https://github.com/duongvanson/flutter-layout-facebook-messenger/blob/master/screenshots/Screenshot_20200412-110237.jpg)
-![alt text](https://github.com/duongvanson/flutter-layout-facebook-messenger/blob/master/screenshots/Screenshot_20200412-110243.jpg)
-![alt text](https://github.com/duongvanson/flutter-layout-facebook-messenger/blob/master/screenshots/Screenshot_20200412-110247.jpg)
+<img src="../screenshots/Screenshot_20200412-110237.jpg" width="250" />
+<img src="../screenshots/Screenshot_20200412-110243.jpg" width="250" />
+<img src="../screenshots/Screenshot_20200412-110247.jpg" width="250" />
